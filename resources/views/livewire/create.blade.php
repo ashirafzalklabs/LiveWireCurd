@@ -1,4 +1,4 @@
-<form>
+<form class="form-body">
     <div class="form-group">
         <label for="exampleFormControlInput1">Title:</label>
         <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Enter Title" wire:model="title">

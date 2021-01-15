@@ -1,0 +1,113 @@
+    body {
+        margin: 0;
+        padding: 0;
+        color: white;
+        background: #6a0dad;
+        font-family: "Comic Sans MS", cursive, sans-serif;
+    }
+    
+    .form-body {
+        background: #6a0dad;
+        border: none;
+    }
+    
+    label {
+        color: #FFD700;
+    }
+    
+    .form-control {
+        border-radius: none;
+        background: #6a0dad;
+        color: white;
+        outline: 2px solid #FFD700;
+    }
+    
+    h2 {
+        color: #FFD700;
+        font-family: "Comic Sans MS", cursive, sans-serif;
+        font-weight: bolder;
+    }
+    
+    .card {
+        margin: none;
+        background: #6a0dad;
+    }
+    
+    .card-header {
+        text-align: center;
+        background: #6a0dad;
+    }
+    
+    .btn-success {
+        background: #6a0dad;
+        color: #FFD700;
+        outline: 2px solid #FFD700;
+        width: 100%;
+    }
+    
+    .btn-dark {
+        background: #6a0dad;
+        color: #FFD700;
+        outline: 2px solid #FFD700;
+    }
+    
+    .btn-danger {
+        background: #6a0dad;
+        color: #FFD700;
+        outline: 2px solid #FFD700;
+    }
+    
+    .btn-success:hover {
+        background: #6a0dad;
+        color: #FFD700;
+        outline: 3px solid #FFD700;
+        font-weight: bolder;
+    }
+    
+    .btn-dark:hover {
+        background: #6a0dad;
+        color: #FFD700;
+        outline: 3px solid #FFD700;
+        font-weight: bolder;
+    }
+    
+    .btn-danger:hover {
+        background: #6a0dad;
+        color: #FFD700;
+        outline: 3px solid #FFD700;
+        font-weight: bolder;
+    }
+    
+    .btn-sm {
+        margin: 0.1rem;
+        background: #6a0dad;
+        color: #FFD700;
+        outline: 2px solid #FFD700;
+    }
+    
+    .btn-sm:hover {
+        background: #6a0dad;
+        color: #FFD700;
+        outline: 3px solid #FFD700;
+        font-weight: bolder;
+    }
+    
+    table {
+        background: #6a0dad;
+        outline: 1px solid #FFD700;
+    }
+    
+    th {
+        color: #eee;
+        outline: 1px solid #FFD700;
+    }
+    
+    td {
+        color: #eee;
+        outline: 1px solid #FFD700;
+    }
+    
+    .pagination>.active>span:hover {
+        background: #6a0dad;
+        border-color: #FFD700;
+    }

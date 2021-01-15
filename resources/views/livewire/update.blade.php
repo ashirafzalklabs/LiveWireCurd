@@ -1,4 +1,4 @@
-<form>
+<form class="form-body">
     <input type="hidden" wire:model="post_id">
     <div class="form-group">
         <label for="exampleFormControlInput1">Title:</label>
