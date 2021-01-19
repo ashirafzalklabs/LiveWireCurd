@@ -20,8 +20,8 @@
                                 {{ session('message') }}
                             </div>
                         @endif
-                        {{-- @livewire('posts') --}}
-                        @livewire('users')
+                        @livewire('posts')
+                        {{-- @livewire('users') --}}
                     </div>
                 </div>
             {{-- </div> --}}
